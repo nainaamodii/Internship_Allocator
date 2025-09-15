@@ -1,5 +1,5 @@
 # Internship Allocator
-AI based internship recommendation engine 
+AI based internship recommendation engine <br>
 Prototype Link - [Internship Allocator](https://www.figma.com/proto/FjyMgtf56ahrk7SgzcWuD3/AlgoNaut?node-id=4-13&p=f&t=WCmqsW9nqy5jbeee-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 ## Problem Statement
