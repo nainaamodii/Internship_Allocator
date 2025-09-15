@@ -1,5 +1,6 @@
 # Internship Allocator
 AI based internship recommendation engine 
+Prototype Link - [Internship Allocator](https://www.figma.com/proto/FjyMgtf56ahrk7SgzcWuD3/AlgoNaut?node-id=4-13&p=f&t=WCmqsW9nqy5jbeee-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 ## Problem Statement
 Candidates struggle to identify suitable interships due to limited digital exposure. Hundreds of listings overwhelm applicants with no prior experience
